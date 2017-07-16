@@ -54,7 +54,7 @@ https://insights.spotify.com/us/2015/01/05/what-does-music-streaming-mean-for-br
 
 
 
-## Idea One
+## Idea One - Most diverse Playlist
 
 Clustering on 'Diversity' of a playlist
 
@@ -68,9 +68,31 @@ for Ads pushing and recommendation
 
 
 
+### Features
+
+
+
+[] filter off streams = 0, we need active playlist
+
+
+
 #### Advanced
 
 could build an classification engine on new playlist
+
+
+
+## Idea Two - High Engaging Playlist
+
+Features for engaging
+
+
+
+### Features
+
+
+
+[] run `describe()` to get basic stats
 
 
 
