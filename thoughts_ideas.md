@@ -20,6 +20,12 @@ https://insights.spotify.com/us/2015/01/05/what-does-music-streaming-mean-for-br
 
 
 
+some reference numbers
+
+`$0.007` spotify ear per http://www.bbc.com/news/entertainment-arts-25217353
+
+
+
 
 
 > ##### Spotify API
