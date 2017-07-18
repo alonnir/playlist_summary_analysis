@@ -76,6 +76,8 @@ for Ads pushing and recommendation
 
 ### Features
 
+- number of tracks
+
 
 
 [] filter off streams = 0, we need active playlist
@@ -99,6 +101,14 @@ Features for engaging
 
 
 [] run `describe()` to get basic stats
+
+
+
+
+
+## Idea Three - Number Tracks
+
+
 
 
 
@@ -183,3 +193,12 @@ like soundcloud stats
 
 ![stats_overview](/Users/hwu/Dropbox/zOB_share/playlist_summary_analysis/pic/Screenshot_experiment_v5_4.png)
 
+
+
+
+
+
+
+
+
+`mysql://bidbprodmaster:Ag4xt2UCr9bChU7vcdWFDRty@bidb-10002-prod-nydc1.nydc1.outbrain.com:3306/bi_hwu_schema`

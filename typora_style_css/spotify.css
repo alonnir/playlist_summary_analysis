@@ -165,11 +165,11 @@ p {
 }
 
 
-ul,
+ul {
+    list-style-type: circle;
+}
 ol {
-    /*color: #2ebd59;*/
     list-style-type: decimal;
-    display: list-item;
 }
 dl,
 table{
@@ -294,13 +294,29 @@ table tr td:last-child {
 .md-fences,
 code,
 tt {
-    border: 1px solid #ddd;
-    background-color: #f8f8f8;
+    /*border: 1px solid #ddd;*/
+    background-color: #2ebd59;
     border-radius: 3px;
     padding: 0;
     font-family: Consolas, "Liberation Mono", Courier, monospace;
     padding: 2px 4px 0px 4px;
     font-size: 0.9em;
+    color: white;
+
+    /*font-weight: 500;
+    letter-spacing: .05em;
+    padding: .35em .5em .2em;
+    text-transform: uppercase;
+    vertical-align: middle;
+    background: #d9dadc;
+    font-size: 75%;
+    line-height: 1;
+    color: #fff;
+    white-space: nowrap;
+    border-radius: .25em;
+    display: inline-block;*/
+    /*text-align: center;*/
+
 }
 
 .md-fences {

@@ -48,3 +48,5 @@ SELECT SUBSTRING_INDEX(playlist_uri, ':playlist:', -1) AS playlist_id
         WHEN n_artists > 1 AND n_albums > 1 THEN 'various_artist_various_album'
         ELSE 'OTHER' END AS x_playlist_type_by_artist_by_album
 FROM bi_hwu_schema.playlist_summary
+ORDER BY 0.007 * stream30s DESC
+LIMIT 500
