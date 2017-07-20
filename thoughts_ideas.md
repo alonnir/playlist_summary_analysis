@@ -108,6 +108,42 @@ Features for engaging
 
 ## Idea Three - Number Tracks
 
+top 1000 cluster - pca
+
+knowing the similarity
+
+
+
+and topic cluster
+
+
+
+![top1000_parallel_all](/Users/hwu/Dropbox/zOB_share/playlist_summary_analysis/pic/top1000_parallel_all.png)
+
+`dau` is a good "splitor" for clusters
+
+
+
+
+
+
+
+
+
+## Slides End
+
+one more thing
+
+With the given dataset - we forgot Audience!
+
+to Buyer/Advertiser, conversion, CPA, reach/exposure are the definition
+
+
+
+but to Audience/User —> interest, personal satisfaction, content affirmity
+
+
+
 
 
 
@@ -172,33 +208,4 @@ Reliables vs Explorers
 
 Either we assume the audience/users are from the same/or similar demographic groups who are sharing similar tastse or "spotify behavior/spotify streaming habits"
 
-
-
-
-
-
-
-
-
-## Todos
-
-1. Review Edward Chen's [Answers on AB testing](https://www.quora.com/When-should-A-B-testing-not-be-trusted-to-make-decisions)
-2. Ask Grace to add additional 30min, to ask a team member present/talk one of the ongoing project - full lifecycle, it's a two way selection `DONE`
-3. Key metrics in Music Stream Industry
-
-
-like soundcloud stats
-
-![stats_overview](/Users/hwu/Dropbox/zOB_share/playlist_summary_analysis/pic/stats_overview.jpg)
-
-![stats_overview](/Users/hwu/Dropbox/zOB_share/playlist_summary_analysis/pic/Screenshot_experiment_v5_4.png)
-
-
-
-
-
-
-
-
-
-`mysql://bidbprodmaster:Ag4xt2UCr9bChU7vcdWFDRty@bidb-10002-prod-nydc1.nydc1.outbrain.com:3306/bi_hwu_schema`
+`
